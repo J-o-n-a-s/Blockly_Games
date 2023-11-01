@@ -15,8 +15,8 @@
 [license-shield]: https://img.shields.io/github/license/J-o-n-a-s/Blockly_Games.svg?style=for-the-badge
 [license-url]: https://github.com/J-o-n-a-s/Blockly_Games/blob/master/LICENSE
 
-# Blockly_Games
-Resolvendo Blockly Games
+# Blockly Games
+Resolvendo os desafios do Blockly Games.
 
 -------------
 
