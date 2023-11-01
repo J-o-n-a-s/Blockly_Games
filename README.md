@@ -51,43 +51,43 @@ Este tópico é composto de 10 desafios. O seu grande de complexidade aumenta co
 
 #### Labirinto - Nível 01
 
-![Labirinto-01](img/Blockly - Labirinto 01.gif)
+![Labirinto-01](img/Blockly_Labirinto_01.gif)
 
 #### Labirinto - Nível 02
 
-![Labirinto-02](img/Blockly - Labirinto 02.gif)
+![Labirinto-02](img/Blockly_Labirinto_02.gif)
 
 #### Labirinto - Nível 03
 
-![Labirinto-03](img/Blockly - Labirinto 03.gif)
+![Labirinto-03](img/Blockly_Labirinto_03.gif)
 
 #### Labirinto - Nível 04
 
-![Labirinto-04](img/Blockly - Labirinto 04.gif)
+![Labirinto-04](img/Blockly_Labirinto_04.gif)
 
 #### Labirinto - Nível 05
 
-![Labirinto-05](img/Blockly - Labirinto 05.gif)
+![Labirinto-05](img/Blockly_Labirinto_05.gif)
 
 #### Labirinto - Nível 06
 
-![Labirinto-06](img/Blockly - Labirinto 06.gif)
+![Labirinto-06](img/Blockly_Labirinto_06.gif)
 
 #### Labirinto - Nível 07
 
-![Labirinto-07](img/Blockly - Labirinto 07.gif)
+![Labirinto-07](img/Blockly_Labirinto_07.gif)
 
 #### Labirinto - Nível 08
 
-![Labirinto-08](img/Blockly - Labirinto 08.gif)
+![Labirinto-08](img/Blockly_Labirinto_08.gif)
 
 #### Labirinto - Nível 09
 
-![Labirinto-09](img/Blockly - Labirinto 09.gif)
+![Labirinto-09](img/Blockly_Labirinto_09.gif)
 
 #### Labirinto - Nível 10
 
-![Labirinto-10](img/Blockly - Labirinto 10.gif)
+![Labirinto-10](img/Blockly_Labirinto_10.gif)
 
 ## Pássaro
 
