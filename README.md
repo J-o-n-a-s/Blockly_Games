@@ -4,16 +4,16 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-[contributors-shield]: https://img.shields.io/github/contributors/J-o-n-a-s/BreadcrumbsBlockly_Games.svg?style=for-the-badge
-[contributors-url]: https://github.com/J-o-n-a-s/BreadcrumbsBlockly_Games/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/J-o-n-a-s/BreadcrumbsBlockly_Games.svg?style=for-the-badge
-[forks-url]: https://github.com/J-o-n-a-s/BreadcrumbsBlockly_Games/network/members
-[stars-shield]: https://img.shields.io/github/stars/J-o-n-a-s/BreadcrumbsBlockly_Games.svg?style=for-the-badge
-[stars-url]: https://github.com/J-o-n-a-s/BreadcrumbsBlockly_Games/stargazers
-[issues-shield]: https://img.shields.io/github/issues/J-o-n-a-s/BreadcrumbsBlockly_Games.svg?style=for-the-badge
-[issues-url]: https://github.com/J-o-n-a-s/BreadcrumbsBlockly_Games/issues
-[license-shield]: https://img.shields.io/github/license/J-o-n-a-s/BreadcrumbsBlockly_Games.svg?style=for-the-badge
-[license-url]: https://github.com/J-o-n-a-s/BreadcrumbsBlockly_Games/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/J-o-n-a-s/Blockly_Games.svg?style=for-the-badge
+[contributors-url]: https://github.com/J-o-n-a-s/Blockly_Games/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/J-o-n-a-s/Blockly_Games.svg?style=for-the-badge
+[forks-url]: https://github.com/J-o-n-a-s/Blockly_Games/network/members
+[stars-shield]: https://img.shields.io/github/stars/J-o-n-a-s/Blockly_Games.svg?style=for-the-badge
+[stars-url]: https://github.com/J-o-n-a-s/Blockly_Games/stargazers
+[issues-shield]: https://img.shields.io/github/issues/J-o-n-a-s/Blockly_Games.svg?style=for-the-badge
+[issues-url]: https://github.com/J-o-n-a-s/Blockly_Games/issues
+[license-shield]: https://img.shields.io/github/license/J-o-n-a-s/Blockly_Games.svg?style=for-the-badge
+[license-url]: https://github.com/J-o-n-a-s/Blockly_Games/blob/master/LICENSE
 
 # Blockly_Games
 Resolvendo Blockly Games
