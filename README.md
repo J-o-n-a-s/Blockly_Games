@@ -133,6 +133,46 @@ Este tópico é composto de 10 desafios. O seu grau de complexidade aumenta conf
 
 ![Passaro-10](img/Blockly_Passaro_10.gif)
 
+## Tartaruga
+
+Este tópico é composto de 10 desafios. O seu grau de complexidade aumenta conforme os níveis vão passando. Sendo o primeiro nível mais simples e o décimo mais complexo. Cada desafio apresenta formas que devem ser desenvolvidas conforme formatos, cores, posição e tamanhos indicados. É necessário utilizar os blocos de controle disponibilizados e agrupá-los, ordená-los de formas específicas com o intuito de atingir o objetivo final do desafio. Ao final, com a correta resolução e execução do desafio, é apresentado o código equivalente em linguagem JavaScript.
+
+#### Tartaruga - Nível 01
+
+![Tartaruga-01](img/Blockly_Tartaruga_01.gif)
+
+#### Tartaruga - Nível 02
+
+![Tartaruga-02](img/Blockly_Tartaruga_02.gif)
+
+#### Tartaruga - Nível 03
+
+![Tartaruga-03](img/Blockly_Tartaruga_03.gif)
+
+#### Tartaruga - Nível 04
+
+![Tartaruga-04](img/Blockly_Tartaruga_04.gif)
+
+#### Tartaruga - Nível 05
+
+![Tartaruga-05](img/Blockly_Tartaruga_05.gif)
+
+#### Tartaruga - Nível 06
+
+![Tartaruga-06](img/Blockly_Tartaruga_06.gif)
+
+#### Tartaruga - Nível 07
+
+![Tartaruga-07](img/Blockly_Tartaruga_07.gif)
+
+#### Tartaruga - Nível 08
+
+![Tartaruga-08](img/Blockly_Tartaruga_08.gif)
+
+#### Tartaruga - Nível 09
+
+![Tartaruga-09](img/Blockly_Tartaruga_09.gif)
+
 ## Licença
 
 MIT License
