@@ -47,7 +47,7 @@ Este é um tópico apenas introdutório, bem simples, servindo apenas para nos h
 
 ## Labirinto
 
-Este tópico é composto de 10 desafios. O seu grande de complexidade aumenta conforme os níveis vão passando. Sendo o primeiro nível mais simples e o décimo mais complexo. Cada desafio apresenta uma imagem, onde é necessário juntar blocos específicos em ordens específicas com o intuito de atingir o objetivo do desafio. Ao final, com a correta execução do desafio, é apresentado o código equivalente em linguagem JavaScript.
+Este tópico é composto de 10 desafios. O seu grau de complexidade aumenta conforme os níveis vão passando. Sendo o primeiro nível mais simples e o décimo mais complexo. Cada desafio apresenta uma imagem com um ponto de partida e um de chegada, é necessário utilizar os blocos de controle disponibilizados e agrupá-los, ordená-los de formas específicas com o intuito de atingir o objetivo final do desafio. Ao final, com a correta resolução e execução do desafio, é apresentado o código equivalente em linguagem JavaScript.
 
 #### Labirinto - Nível 01
 
@@ -91,6 +91,47 @@ Este tópico é composto de 10 desafios. O seu grande de complexidade aumenta co
 
 ## Pássaro
 
+Este tópico é composto de 10 desafios. O seu grau de complexidade aumenta conforme os níveis vão passando. Sendo o primeiro nível mais simples e o décimo mais complexo. Cada desafio apresenta uma imagem com um pássaro e o seu ninho, em alguns casos basta levá-lo apenas ao ninho e em outros ele deve antes pegar uma minhoca. É necessário utilizar os blocos de controle disponibilizados e agrupá-los, ordená-los de formas específicas com o intuito de atingir o objetivo final do desafio. Ao final, com a correta resolução e execução do desafio, é apresentado o código equivalente em linguagem JavaScript.
+
+#### Pássaro - Nível 01
+
+![Passaro-01](img/Blockly_Passaro_01.gif)
+
+#### Pássaro - Nível 02
+
+![Passaro-02](img/Blockly_Passaro_02.gif)
+
+#### Pássaro - Nível 03
+
+![Passaro-03](img/Blockly_Passaro_03.gif)
+
+#### Pássaro - Nível 04
+
+![Passaro-04](img/Blockly_Passaro_04.gif)
+
+#### Pássaro - Nível 05
+
+![Passaro-05](img/Blockly_Passaro_05.gif)
+
+#### Pássaro - Nível 06
+
+![Passaro-06](img/Blockly_Passaro_06.gif)
+
+#### Pássaro - Nível 07
+
+![Passaro-07](img/Blockly_Passaro_07.gif)
+
+#### Pássaro - Nível 08
+
+![Passaro-08](img/Blockly_Passaro_08.gif)
+
+#### Pássaro - Nível 09
+
+![Passaro-09](img/Blockly_Passaro_09.gif)
+
+#### Pássaro - Nível 10
+
+![Passaro-10](img/Blockly_Passaro_10.gif)
 
 ## Licença
 
