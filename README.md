@@ -33,7 +33,7 @@ Resolvendo os desafios do Blockly Games.
 
 ## Introdução
 
-Este repositório tem somente o propósito de apresentar algumas soluções para o site Blockly Games. Este site ajuda o futuros programadores, ou como eles mesmo citam "... os programadores do amanhã.", aprenderem a pensar demonstrando assim uma forma lúdica de aprenderem lógica de programação.
+Este repositório tem somente o propósito de apresentar algumas soluções para o site Blockly Games. Este site ajuda o futuros programadores, ou como eles mesmo citam "... os programadores de amanhã.", aprenderem a pensar demonstrando assim uma forma lúdica de aprenderem lógica de programação.
 
 Na imagem a seguir são apresentados os tópicos disponibilizados para a resolução (01/11/2023).
 
